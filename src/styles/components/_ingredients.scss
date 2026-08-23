@@ -1,0 +1,32 @@
+.ingredients {
+  &__title {
+    color: var(--brown-800);
+    font-size: 28px;
+    margin-bottom: 18px;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    list-style: none;
+  }
+
+  &__item {
+    align-items: center;
+    color: var(--stone-600);
+    display: flex;
+    margin-left: 8px;
+    line-height: 1.5;
+
+    &::before {
+      background-color: var(--brown-800);
+      border-radius: 50%;
+      content: "";
+      display: inline-block;
+      margin-right: 28px;
+      min-height: 4px;
+      min-width: 4px;
+    }
+  }
+}
