@@ -9,6 +9,35 @@
   &__description {
     font-size: 1rem;
     line-height: 1.5;
-    margin-bottom: 28px;
+    margin-bottom: 13px;
+  }
+
+  &__table {
+    border-collapse: collapse;
+    text-align: left;
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  &__header,
+  &__value {
+    line-height: 1;
+    padding: 15px 0 16px 0;
+  }
+
+  &__header {
+    color: var(--stone-600);
+    font-weight: 400;
+    padding-left: 32px;
+  }
+
+  &__value {
+    color: var(--brown-800);
+    font-weight: 700;
+    padding-left: 8px;
+  }
+
+  &__row:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   }
 }
