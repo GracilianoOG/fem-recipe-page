@@ -1,5 +1,7 @@
 .recipe {
   background-color: var(--white);
+  border-radius: 24px;
+  overflow: hidden;
   width: min(100%, 736px);
 
   &__hero {
