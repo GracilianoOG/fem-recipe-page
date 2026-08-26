@@ -1,3 +1,5 @@
+@use "../utils/media";
+
 .recipe {
   background-color: var(--white);
   overflow: hidden;
@@ -29,7 +31,7 @@
     margin-bottom: 30px;
   }
 
-  @media screen and (min-width: 768px) {
+  @include media.tablet {
     border-radius: 24px;
 
     &__hero {
