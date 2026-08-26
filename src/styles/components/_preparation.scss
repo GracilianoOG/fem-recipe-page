@@ -38,4 +38,9 @@
   &__time {
     line-height: 1.5;
   }
+
+  @media screen and (min-width: 768px) {
+    margin-bottom: 34px;
+    padding: 24px 28px 28px;
+  }
 }
