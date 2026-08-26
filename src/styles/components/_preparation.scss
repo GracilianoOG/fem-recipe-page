@@ -24,13 +24,7 @@
     margin-left: 8px;
 
     &::before {
-      background-color: var(--rose-800);
-      border-radius: 50%;
-      content: "";
-      display: inline-block;
-      height: 4px;
-      margin-right: 28px;
-      width: 4px;
+      @include mixin.bullet-icon(var(--rose-800));
     }
   }
 

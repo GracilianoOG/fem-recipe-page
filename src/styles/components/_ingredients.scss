@@ -16,13 +16,7 @@
     line-height: 1.5;
 
     &::before {
-      background-color: var(--brown-800);
-      border-radius: 50%;
-      content: "";
-      display: inline-block;
-      margin-right: 28px;
-      min-height: 4px;
-      min-width: 4px;
+      @include mixin.bullet-icon(var(--brown-800));
     }
   }
 }

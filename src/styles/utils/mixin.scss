@@ -11,3 +11,13 @@
   gap: 8px;
   list-style: none;
 }
+
+@mixin bullet-icon($color) {
+  background-color: $color;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  margin-right: 28px;
+  min-height: 4px;
+  min-width: 4px;
+}
