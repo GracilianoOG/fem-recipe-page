@@ -1,9 +1,8 @@
+@use "../utils/mixin";
+
 .ingredients {
   &__title {
-    color: var(--brown-800);
-    font-size: 28px;
-    margin-bottom: 23px;
-    line-height: 1;
+    @include mixin.section-title;
   }
 
   &__list {
