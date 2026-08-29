@@ -79,6 +79,8 @@ npm run dev
 - [LCP request discovery](https://developer.chrome.com/docs/performance/insights/lcp-discovery)
 - [How To Optimize LCP Request Discovery](https://www.debugbear.com/blog/lcp-request-discovery)
 - [fetchpriority HTML attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/fetchpriority)
+- [Optimizing Frontend Builds with Vite](https://sorbx64.hashnode.dev/optimizing-frontend-builds-with-vite)
+- [Minify html in production](https://github.com/zhuweiyou/vite-plugin-minify)
 
 ## 🧑🏻‍💻 Author
 
