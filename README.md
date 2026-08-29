@@ -76,6 +76,8 @@ npm run dev
 - [Using CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Counter_styles/Using_counters)
 - [Styling tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Tables)
 - [CSS Tables](https://www.w3schools.com/css/css_table.asp)
+- [LCP request discovery](https://developer.chrome.com/docs/performance/insights/lcp-discovery)
+- [How To Optimize LCP Request Discovery](https://www.debugbear.com/blog/lcp-request-discovery)
 
 ## 🧑🏻‍💻 Author
 
