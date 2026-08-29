@@ -69,6 +69,14 @@ npm run dev
 - Responsive design
 - Vite build tool
 
+## 🔗 Useful links
+
+- [Set a Width and Height on Images to Reduce Layout Shifts](https://www.aleksandrhovhannisyan.com/blog/setting-width-and-height-on-images/)
+- [Optimize Cumulative Layout Shift](https://web.dev/articles/optimize-cls#images_without_dimensions)
+- [Using CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Counter_styles/Using_counters)
+- [Styling tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Tables)
+- [CSS Tables](https://www.w3schools.com/css/css_table.asp)
+
 ## 🧑🏻‍💻 Author
 
 | [<img src="https://avatars.githubusercontent.com/u/72778164?s=96&v=4"><br><sub>GracilianoOG</sub>](https://github.com/GracilianoOG) |
